@@ -33,6 +33,7 @@ public class MainActivity extends AppCompatActivity {
     String x;
     String y;
     String z;
+    String j;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
