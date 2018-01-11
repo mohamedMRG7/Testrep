@@ -30,10 +30,14 @@ public class MainActivity extends AppCompatActivity {
     EditText editText;
     Button button;
     Bidi bidi;
+
     String x;
     String y;
     String z;
     String j;
+
+
+    String ml;
 
 
 
