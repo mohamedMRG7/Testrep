@@ -30,6 +30,7 @@ public class MainActivity extends AppCompatActivity {
     EditText editText;
     Button button;
     Bidi bidi;
+    String x;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
