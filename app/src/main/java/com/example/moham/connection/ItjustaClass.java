@@ -8,4 +8,11 @@ public class ItjustaClass {
 
 
     String x;
+    String u;
+
+    public void seechang()
+    {
+        x="hey";
+    }
+
 }
