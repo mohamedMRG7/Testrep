@@ -31,7 +31,6 @@ public class MainActivity extends AppCompatActivity {
     Button button;
     Bidi bidi;
     String x;
-    String y;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
