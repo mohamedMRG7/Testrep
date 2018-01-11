@@ -15,12 +15,6 @@ public class ItjustaClass {
         u=3;
     }
 
-    String x;
 
-
-    public void seechang()
-    {
-
-    }
 
 }
