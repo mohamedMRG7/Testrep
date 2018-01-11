@@ -10,6 +10,7 @@ public class ItjustaClass {
 
     int c;
     int y;
+    int u;
 
     public void seechang()
     {
