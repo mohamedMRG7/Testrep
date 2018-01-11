@@ -30,6 +30,7 @@ public class MainActivity extends AppCompatActivity {
     EditText editText;
     Button button;
     Bidi bidi;
+    String ml;
 
 
     @Override
