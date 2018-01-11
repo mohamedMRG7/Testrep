@@ -8,19 +8,7 @@ public class ItjustaClass {
 
 
 
-    int u;
 
-    public void m3() {
-        u = 3;
-    }
-    int c;
-    int y;
-    int u;
-
-    public void seechang()
-    {
-        c=5;
-    }
 
 
 
