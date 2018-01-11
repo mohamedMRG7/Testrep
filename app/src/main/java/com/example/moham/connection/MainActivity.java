@@ -32,6 +32,7 @@ public class MainActivity extends AppCompatActivity {
     Bidi bidi;
     String x;
     String y;
+    String z;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
