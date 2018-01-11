@@ -7,5 +7,10 @@ package com.example.moham.connection;
 public class ItjustaClass {
 
 
-    String x;
+
+    int u;
+    public void m3()
+    {
+        u=3;
+    }
 }
