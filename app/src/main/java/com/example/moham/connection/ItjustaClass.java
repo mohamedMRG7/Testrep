@@ -14,6 +14,7 @@ public class ItjustaClass {
         u = 3;
     }
     int c;
+    int y;
 
     public void seechang()
     {
