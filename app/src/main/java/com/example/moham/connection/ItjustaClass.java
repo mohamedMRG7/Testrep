@@ -12,7 +12,8 @@ public class ItjustaClass {
 
     public void seechang()
     {
-        x="hey";
+        x="hey 3";
+        u="hey 2";
     }
 
 }
