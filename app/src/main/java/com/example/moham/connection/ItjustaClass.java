@@ -5,4 +5,7 @@ package com.example.moham.connection;
  */
 
 public class ItjustaClass {
+
+
+    String x;
 }
