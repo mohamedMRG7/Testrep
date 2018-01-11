@@ -8,9 +8,19 @@ public class ItjustaClass {
 
 
 
+
     int u;
     public void m3()
     {
         u=3;
     }
+
+    String x;
+
+
+    public void seechang()
+    {
+
+    }
+
 }
