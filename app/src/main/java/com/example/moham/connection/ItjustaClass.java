@@ -7,12 +7,12 @@ package com.example.moham.connection;
 public class ItjustaClass {
 
 
-    String x;
-    String u;
+
+    int u;
 
     public void seechang()
     {
-
+        u=5;
     }
 
 }
