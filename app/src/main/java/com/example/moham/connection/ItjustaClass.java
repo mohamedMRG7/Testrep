@@ -10,9 +10,14 @@ public class ItjustaClass {
 
     int u;
 
-    public void m3()
+    public void m3() {
+        u = 3;
+    }
+    int c;
+
+    public void seechang()
     {
-        u=3;
+        c=5;
     }
 
 
