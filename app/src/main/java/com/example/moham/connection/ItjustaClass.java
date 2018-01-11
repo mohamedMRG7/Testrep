@@ -8,11 +8,11 @@ public class ItjustaClass {
 
 
 
-    int u;
+    int c;
 
     public void seechang()
     {
-        u=5;
+        c=5;
     }
 
 }
