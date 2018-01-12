@@ -1,2 +1,3 @@
 # Testrep
-ok iam testing it 
+ok iam testing it
+ok i already tested it
