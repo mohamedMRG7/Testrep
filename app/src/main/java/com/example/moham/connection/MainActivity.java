@@ -37,8 +37,7 @@ public class MainActivity extends AppCompatActivity {
     String j;
     String c;
 
-    String ml;
-    String sd;
+
 
 
     @Override
