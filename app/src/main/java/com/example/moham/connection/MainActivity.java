@@ -35,7 +35,7 @@ public class MainActivity extends AppCompatActivity {
     String y;
     String z;
     String j;
-    String c;
+    String c="hey";
 
 
 
